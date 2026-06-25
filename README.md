@@ -102,4 +102,4 @@ Ratings are relatively consistent across different outlet location tiers.
 Both Low Fat and Regular products maintain similar customer ratings.
 
 Screenshort/Demo :
-What dashboard look likes : 
+What dashboard look likes : https://github.com/akshatapathare/Blinkit_Dashboard/blob/main/Blinkit_dashboard.png
