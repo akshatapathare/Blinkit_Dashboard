@@ -103,3 +103,5 @@ Both Low Fat and Regular products maintain similar customer ratings.
 
 Screenshort/Demo :
 What dashboard look likes : https://github.com/akshatapathare/Blinkit_Dashboard/blob/main/Blinkit_dashboard.png
+<img width="1307" height="700" alt="image" src="https://github.com/user-attachments/assets/f6c0a3ae-527c-43be-9502-a80fcb654b6f" />
+
